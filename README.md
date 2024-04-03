@@ -1,7 +1,11 @@
 # Security
-Web access system to building security cameras as well as RFID logging for all registered individuals.
+The purpose of project Fenrir is to develop a security system capable of monitoring both RFID access and security camera footage via secure web access from a portal specifically secured and catered for the user using a password authenticated system.
 
-This project will be made with the purpose of reconfiguring a poorly maintained security system in a local Apartment complex.
+This project is directed towards two specific demographics, first for those who already have older generation CCTV Cameras with analog/BNC output installed. 
+Second, for those who do not have any cameras or security installed in their home, office, or complex.
+
+
+This project will be made with the purpose of reconfiguring a poorly maintained security system in a local apartment complex.
 There are some cameras that are inactive in the elevators, as well as no communication to the front door/elevators for residents to communicate or allow guests into their home.
 Each elevator, parking garage, and staircases are secured with an RFID system using key FOBs/proximity cards. 
 There is a communication system at the front door, but out of service.
